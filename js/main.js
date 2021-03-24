@@ -1,4 +1,4 @@
-var fecha = "Oct 29, 2022 21:00:00";
+var fecha = "Oct 29, 2022 16:00:00";
 var end = new Date(fecha);
 
 var _second = 1000;
