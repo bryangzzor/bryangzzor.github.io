@@ -1,0 +1,93 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: rgb(236, 235, 235);
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+button {
+  margin-right: 20px;
+}
+
+.fondo {
+  background: url("../img/10.jpg");
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+}
+
+.fondo-2 {
+  background: url("../img/9.jpg");
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+}
+
+/* .info {
+  height: 100vh;
+} */
+
+.imagen {
+  background-repeat: no-repeat;
+  background-position: 50%;
+  border-radius: 50%;
+  background-size: 100% auto;
+}
+
+.linea {
+  width: 100%;
+  color: red;
+}
+
+.hora {
+  border: red solid 1px;
+  margin-right: 20px;
+}
+
+.font-bodoni-regular {
+  font-family: "Bodoni Moda", serif;
+  font-weight: 400;
+}
+
+.font-bodoni-semibold {
+  font-family: "Bodoni Moda", serif;
+  font-weight: 600;
+}
+
+.font-bodoni-bold {
+  font-family: "Bodoni Moda", serif;
+  font-weight: 700;
+}
+
+.font-robot-regular {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+}
+
+.hours {
+  margin-right: 10px;
+}
+
+.content-text {
+  margin-top: 1rem;
+}
+
+.margin-bottom {
+  margin-bottom: 20px;
+}
+
+.space-plus {
+  height: 277px;
+}
+
+.space-plus-2 {
+  height: 580px;
+}
